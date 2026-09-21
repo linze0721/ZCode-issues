@@ -1,14 +1,1 @@
-# ZCode-issues
-
-Issue tracker for ZCode.
-
-This repository is a placeholder — it exists to host issues and discussions.
-
-## Reporting an issue
-
-Open an issue at https://github.com/linze0721/ZCode-issues/issues and include:
-
-- What you did (steps to reproduce)
-- What you expected
-- What actually happened
-- Version / environment info
+> 智谱也开源，但是智谱的开源跟我们的开源不一样。智谱的开源有一种被迫的感觉，他们觉得这不是本意 ——梁文峰
